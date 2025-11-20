@@ -1,0 +1,11 @@
+# X API Official SDK
+xdk==0.2.2b0
+
+# Alternative (for comparison)
+tweepy==4.16.0
+
+# Data handling
+pandas==2.3.3
+
+# Environment variables
+python-dotenv==1.2.1
